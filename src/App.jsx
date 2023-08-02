@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Container className="mainPage m-5">
-        <h1 className="text-center">Alta de películas</h1>
+        <h1 className="text-center my-4">Alta de películas</h1>
         <Formulario></Formulario>
       </Container>
     </>
